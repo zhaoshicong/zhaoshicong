@@ -14,9 +14,10 @@
                     "adTrackInfo": [
                         {
                             "type": 1,
-                            "url": [
-                                "https://msg.qy.net/evt?source_id=huo_dong&ctype=5&iscallback=1&productid=15&atype=1&os=0&p1=8_88_280&t=11&ct=chlads&media=ksc&advertiserid=13090560&adcrid=22379131252&planid=611816115&planname=%E6%9E%81%E9%80%9F%E7%89%88%2D%E7%AB%99%E5%86%85%2D%E4%B8%8A%E4%B8%8B%E6%BB%91%2D%E7%BD%91%E8%B5%9A%2D%E7%A6%8F%E5%88%A9%2D%E7%A8%8B%E5%BA%8F%E5%8C%96%2DTQ%2D0313%2D%E5%BF%AB%E6%89%8B%E6%9E%81%E9%80%9F%E7%89%88%E7%9A%84%E6%89%98%E7%AE%A1%E8%AE%A1%E5%88%92&oaid=__OAID__&oaidmd5=__OAID2__&mac_address=__MAC2__&idfamd5=__IDFA2__&androididmd5=__ANDROIDID2__&imei=__IMEI2__&stime=__TS__&model=__MODEL__&callback=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DNkmjkvcHPbb_cJdv9S3firRP7RLke7Fggrkew_xLdikswb5c3Z1SJGtd7uXmoqhadSjjhupFfUtqgfkAdxileLJYCTvAougYvRoWu3cC1kzAKtRaQ3P-EwFtI9Hp5l-jYFIaopP6oojSq5WzGkQt1saRzpQXHUbuGRPpdnkJGZGUp-FvmHd0B7GLfcZuzm2H&adposition=6"
-                            ]
+                            "url": 
+                                ["https://ryqb.7mz3a.com/api/media_click/clickdata.php?
+pd=11&un=121583&lk=1315516&uid=31296102&rt=0&campaign_id=793778667&adid=1443432992&cid=22640573499&qaid_caa=_KAID_CAA_&idfa=__IDFA2__&callback=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3Dbocds7UjjJOpX5gyk-FL3J8ZXkKhAkj0czv4ZdQYsyRaXBAFJmZwrc-mGC6k1DYWovXCodJ_GRSByRZisjs7VBgrRpSzkA38ofVR48-MT_9c-0ITj3N2toGC8KciRnH65emV7QA5KS_IbrhTfSv1zf89lMyJQYAl1cwon2tbwJomOAYPz-KT8CMjMyVV4K1-3PnpgVOWwxVUXgblw5agVA&ip=103.107.219.5&ua=__UA__"]
+                            
                         }
                     ],
                     "adConversionInfo": {
